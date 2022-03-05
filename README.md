@@ -1,6 +1,8 @@
-## desafioDio2
-# Criação de BootCamp
+## Desafio Dio 2
+
 ##
+
+# Criação de BootCamp
 
 A dio propos a criação de um bootcamp que cadastre: <br/>
 -Curso, com titulo, descrição e carga horaria. <br/>
